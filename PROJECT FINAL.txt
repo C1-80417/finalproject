@@ -1,5 +1,5 @@
 Deploying Application on AWS using Kubernetes and Jenkins CI/CD pipeline, Nagios Monitoring, and IDS Security 
-ChatGPT
+
 Deploying an application on AWS using Kubernetes and Jenkins CI/CD pipeline, along with Nagios monitoring and IDS security, involves combining several technologies to create a secure and automated deployment pipeline. Below are the steps for setting up this environment:
 
 1. Set Up Kubernetes Cluster on AWS:
